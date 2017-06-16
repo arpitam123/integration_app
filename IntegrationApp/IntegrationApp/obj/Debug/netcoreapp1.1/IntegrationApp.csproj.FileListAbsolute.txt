@@ -1,0 +1,8 @@
+C:\Workspace\integration_app\IntegrationApp\IntegrationApp\bin\Debug\netcoreapp1.1\IntegrationApp.deps.json
+C:\Workspace\integration_app\IntegrationApp\IntegrationApp\bin\Debug\netcoreapp1.1\IntegrationApp.runtimeconfig.json
+C:\Workspace\integration_app\IntegrationApp\IntegrationApp\bin\Debug\netcoreapp1.1\IntegrationApp.runtimeconfig.dev.json
+C:\Workspace\integration_app\IntegrationApp\IntegrationApp\bin\Debug\netcoreapp1.1\IntegrationApp.dll
+C:\Workspace\integration_app\IntegrationApp\IntegrationApp\obj\Debug\netcoreapp1.1\IntegrationApp.AssemblyInfo.cs
+C:\Workspace\integration_app\IntegrationApp\IntegrationApp\bin\Debug\netcoreapp1.1\IntegrationApp.pdb
+C:\Workspace\integration_app\IntegrationApp\IntegrationApp\obj\Debug\netcoreapp1.1\IntegrationApp.dll
+C:\Workspace\integration_app\IntegrationApp\IntegrationApp\obj\Debug\netcoreapp1.1\IntegrationApp.pdb
